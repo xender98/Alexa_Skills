@@ -2,12 +2,12 @@
 
 
 
-Alexa skill--> Quiz game 
+Alexa skill :: Quiz game 
   
             
             
                 
-                  Using aws and amazon developer console
+                Using aws and amazon developer console
 
 
 
@@ -16,11 +16,11 @@ Alexa skill--> Quiz game
 
 
 
-Alexa skill --> Saymy name
+Alexa skill :: Saymy name
  
  
-                      Using DynamoDb nosql database
-                      AWS lamda functions
+               Using DynamoDb nosql database
+               AWS lamda functions
   
   
 
@@ -32,7 +32,7 @@ Alexa skill --> Saymy name
 
 
   
-Alexa skill--> Saymy favourite color
+Alexa skill:: Saymy favourite color
    
    
    
@@ -41,7 +41,7 @@ Alexa skill--> Saymy favourite color
    
    
    
-                                      Using attribute map in Dynamodb database.
+            Using attribute map in Dynamodb database.
                                       
                                       
                                       
@@ -49,4 +49,11 @@ Alexa skill--> Saymy favourite color
                                       
 
 
-DEMO video output_alexa.mvw FILE
+DEMO video 
+
+
+
+
+
+          
+            output_alexa.mvw FILE
