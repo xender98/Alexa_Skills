@@ -1,0 +1,18 @@
+{
+  "name": "alexa-spell",
+  "version": "1.0.0",
+  "description": "A sample Alexa Skill bot built using Claudia.js",
+  "scripts": {
+    "create": "claudia create --configure-alexa-skill --region us-east-1 --api-module bot --cache-api-config apiConfig",
+    "update": "claudia update --cache-api-config apiConfig"
+  },
+  "keywords": [],
+  "author": "Slobodan Stojanovic <slobodan@cloudhorizon.com> (http://slobodan.me/)",
+  "license": "MIT",
+  "dependencies": {
+    "claudia-bot-builder": "^4"
+  },
+  "devDependencies": {
+    "claudia": "^4"
+  }
+}

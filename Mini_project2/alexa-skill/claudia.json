@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "alexa-spell-executor",
+    "name": "alexa-spell",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "mfag9np4id",
+    "module": "bot"
+  }
+}
